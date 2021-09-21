@@ -1,5 +1,6 @@
 # Typing-Game
-* This game is going to check the typing speed of the user. 
+* This game is going to check the typing speed of the user.
+* This game will improve players typing speed in fun, quick & easy way.
 * The game is divided into three levels: Easy, Medium and Hard. 
 * In Easy level, upto 4 secs will be added into remaining time. 
 * In Medium level, upto 2 secs will be added into remaining time. 
